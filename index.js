@@ -25,7 +25,7 @@ var User = mongoose.model("User", UserSchema);
 
 var whitelist = [
   "http://localhost:3000",
-  "https://admiring-joliot-7ae5fb.netlify.app/",
+  "https://admiring-joliot-7ae5fb.netlify.app",
 ];
 app.use(
   cors({

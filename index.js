@@ -29,6 +29,7 @@ var whitelist = [
   "https://admiring-joliot-7ae5fb.netlify.app/",
   "https://admiring-joliot-7ae5fb.netlify.com/",
   "https://admiring-joliot-7ae5fb.netlify.com",
+  "https://admiring-joliot-7ae5fb.netlify.app/contacts",
 ];
 //test
 app.use(

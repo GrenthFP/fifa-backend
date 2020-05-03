@@ -28,6 +28,7 @@ var whitelist = [
   "https://admiring-joliot-7ae5fb.netlify.app",
   "https://admiring-joliot-7ae5fb.netlify.app/",
 ];
+//test
 app.use(
   cors({
     origin: whitelist,
